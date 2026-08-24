@@ -1,0 +1,410 @@
+[
+  {
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaning": "hello",
+    "example": "你好！很高兴认识你。",
+    "examplePinyin": "Nǐ hǎo! Hěn gāoxìng rènshi nǐ.",
+    "exampleMeaning": "Hello! Nice to meet you."
+  },
+  {
+    "hanzi": "学习",
+    "pinyin": "xuéxí",
+    "meaning": "to study / learn",
+    "example": "我学习中文。",
+    "examplePinyin": "Wǒ xuéxí Zhōngwén.",
+    "exampleMeaning": "I study Chinese."
+  },
+  {
+    "hanzi": "朋友",
+    "pinyin": "péngyou",
+    "meaning": "friend",
+    "example": "她是我的朋友。",
+    "examplePinyin": "Tā shì wǒ de péngyou.",
+    "exampleMeaning": "She is my friend."
+  },
+  {
+    "hanzi": "中国",
+    "pinyin": "Zhōngguó",
+    "meaning": "China",
+    "example": "我想去中国。",
+    "examplePinyin": "Wǒ xiǎng qù Zhōngguó.",
+    "exampleMeaning": "I want to go to China."
+  },
+  {
+    "hanzi": "吃",
+    "pinyin": "chī",
+    "meaning": "to eat",
+    "example": "我喜欢吃米饭。",
+    "examplePinyin": "Wǒ xǐhuān chī mǐfàn.",
+    "exampleMeaning": "I like eating rice."
+  },
+  {
+    "hanzi": "喝",
+    "pinyin": "hē",
+    "meaning": "to drink",
+    "example": "我喜欢喝茶。",
+    "examplePinyin": "Wǒ xǐhuān hē chá.",
+    "exampleMeaning": "I like drinking tea."
+  },
+  {
+    "hanzi": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water",
+    "example": "请给我一杯水。",
+    "examplePinyin": "Qǐng gěi wǒ yì bēi shuǐ.",
+    "exampleMeaning": "Please give me a glass of water."
+  },
+  {
+    "hanzi": "家",
+    "pinyin": "jiā",
+    "meaning": "home / family",
+    "example": "我在家。",
+    "examplePinyin": "Wǒ zài jiā.",
+    "exampleMeaning": "I am at home."
+  },
+  {
+    "hanzi": "学校",
+    "pinyin": "xuéxiào",
+    "meaning": "school",
+    "example": "我每天去学校。",
+    "examplePinyin": "Wǒ měitiān qù xuéxiào.",
+    "exampleMeaning": "I go to school every day."
+  },
+  {
+    "hanzi": "老师",
+    "pinyin": "lǎoshī",
+    "meaning": "teacher",
+    "example": "她是我的老师。",
+    "examplePinyin": "Tā shì wǒ de lǎoshī.",
+    "exampleMeaning": "She is my teacher."
+  },
+  {
+    "hanzi": "学生",
+    "pinyin": "xuésheng",
+    "meaning": "student",
+    "example": "我是学生。",
+    "examplePinyin": "Wǒ shì xuésheng.",
+    "exampleMeaning": "I am a student."
+  },
+  {
+    "hanzi": "书",
+    "pinyin": "shū",
+    "meaning": "book",
+    "example": "这是我的书。",
+    "examplePinyin": "Zhè shì wǒ de shū.",
+    "exampleMeaning": "This is my book."
+  },
+  {
+    "hanzi": "看",
+    "pinyin": "kàn",
+    "meaning": "to look / watch / read",
+    "example": "我喜欢看书。",
+    "examplePinyin": "Wǒ xǐhuān kàn shū.",
+    "exampleMeaning": "I like reading books."
+  },
+  {
+    "hanzi": "听",
+    "pinyin": "tīng",
+    "meaning": "to listen",
+    "example": "我喜欢听音乐。",
+    "examplePinyin": "Wǒ xǐhuān tīng yīnyuè.",
+    "exampleMeaning": "I like listening to music."
+  },
+  {
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "meaning": "to speak / say",
+    "example": "你会说中文吗？",
+    "examplePinyin": "Nǐ huì shuō Zhōngwén ma?",
+    "exampleMeaning": "Can you speak Chinese?"
+  },
+  {
+    "hanzi": "写",
+    "pinyin": "xiě",
+    "meaning": "to write",
+    "example": "我会写汉字。",
+    "examplePinyin": "Wǒ huì xiě Hànzì.",
+    "exampleMeaning": "I can write Chinese characters."
+  },
+  {
+    "hanzi": "喜欢",
+    "pinyin": "xǐhuān",
+    "meaning": "to like",
+    "example": "我喜欢中文。",
+    "examplePinyin": "Wǒ xǐhuān Zhōngwén.",
+    "exampleMeaning": "I like Chinese."
+  },
+  {
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "meaning": "to love",
+    "example": "我爱我的家人。",
+    "examplePinyin": "Wǒ ài wǒ de jiārén.",
+    "exampleMeaning": "I love my family."
+  },
+  {
+    "hanzi": "想",
+    "pinyin": "xiǎng",
+    "meaning": "to want / think",
+    "example": "我想喝咖啡。",
+    "examplePinyin": "Wǒ xiǎng hē kāfēi.",
+    "exampleMeaning": "I want to drink coffee."
+  },
+  {
+    "hanzi": "去",
+    "pinyin": "qù",
+    "meaning": "to go",
+    "example": "我们去学校。",
+    "examplePinyin": "Wǒmen qù xuéxiào.",
+    "exampleMeaning": "We are going to school."
+  },
+  {
+    "hanzi": "来",
+    "pinyin": "lái",
+    "meaning": "to come",
+    "example": "明天你来我家吧。",
+    "examplePinyin": "Míngtiān nǐ lái wǒ jiā ba.",
+    "exampleMeaning": "Come to my house tomorrow."
+  },
+  {
+    "hanzi": "买",
+    "pinyin": "mǎi",
+    "meaning": "to buy",
+    "example": "我想买一本书。",
+    "examplePinyin": "Wǒ xiǎng mǎi yì běn shū.",
+    "exampleMeaning": "I want to buy a book."
+  },
+  {
+    "hanzi": "钱",
+    "pinyin": "qián",
+    "meaning": "money",
+    "example": "我没有钱。",
+    "examplePinyin": "Wǒ méiyǒu qián.",
+    "exampleMeaning": "I don't have money."
+  },
+  {
+    "hanzi": "今天",
+    "pinyin": "jīntiān",
+    "meaning": "today",
+    "example": "今天很热。",
+    "examplePinyin": "Jīntiān hěn rè.",
+    "exampleMeaning": "It is very hot today."
+  },
+  {
+    "hanzi": "明天",
+    "pinyin": "míngtiān",
+    "meaning": "tomorrow",
+    "example": "明天见！",
+    "examplePinyin": "Míngtiān jiàn!",
+    "exampleMeaning": "See you tomorrow!"
+  },
+  {
+    "hanzi": "昨天",
+    "pinyin": "zuótiān",
+    "meaning": "yesterday",
+    "example": "昨天我很忙。",
+    "examplePinyin": "Zuótiān wǒ hěn máng.",
+    "exampleMeaning": "I was very busy yesterday."
+  },
+  {
+    "hanzi": "现在",
+    "pinyin": "xiànzài",
+    "meaning": "now",
+    "example": "你现在忙吗？",
+    "examplePinyin": "Nǐ xiànzài máng ma?",
+    "exampleMeaning": "Are you busy now?"
+  },
+  {
+    "hanzi": "时间",
+    "pinyin": "shíjiān",
+    "meaning": "time",
+    "example": "你有时间吗？",
+    "examplePinyin": "Nǐ yǒu shíjiān ma?",
+    "exampleMeaning": "Do you have time?"
+  },
+  {
+    "hanzi": "好",
+    "pinyin": "hǎo",
+    "meaning": "good / well",
+    "example": "今天天气很好。",
+    "examplePinyin": "Jīntiān tiānqì hěn hǎo.",
+    "exampleMeaning": "The weather is very good today."
+  },
+  {
+    "hanzi": "大",
+    "pinyin": "dà",
+    "meaning": "big",
+    "example": "我的房子很大。",
+    "examplePinyin": "Wǒ de fángzi hěn dà.",
+    "exampleMeaning": "My house is very big."
+  },
+  {
+    "hanzi": "小",
+    "pinyin": "xiǎo",
+    "meaning": "small",
+    "example": "这只猫很小。",
+    "examplePinyin": "Zhè zhī māo hěn xiǎo.",
+    "exampleMeaning": "This cat is very small."
+  },
+  {
+    "hanzi": "多",
+    "pinyin": "duō",
+    "meaning": "many / much",
+    "example": "这里有很多人。",
+    "examplePinyin": "Zhèlǐ yǒu hěn duō rén.",
+    "exampleMeaning": "There are many people here."
+  },
+  {
+    "hanzi": "少",
+    "pinyin": "shǎo",
+    "meaning": "few / little",
+    "example": "这里的人很少。",
+    "examplePinyin": "Zhèlǐ de rén hěn shǎo.",
+    "exampleMeaning": "There are few people here."
+  },
+  {
+    "hanzi": "人",
+    "pinyin": "rén",
+    "meaning": "person / people",
+    "example": "那里有很多人。",
+    "examplePinyin": "Nàlǐ yǒu hěn duō rén.",
+    "exampleMeaning": "There are many people there."
+  },
+  {
+    "hanzi": "名字",
+    "pinyin": "míngzi",
+    "meaning": "name",
+    "example": "你的名字是什么？",
+    "examplePinyin": "Nǐ de míngzi shì shénme?",
+    "exampleMeaning": "What is your name?"
+  },
+  {
+    "hanzi": "家人",
+    "pinyin": "jiārén",
+    "meaning": "family member / family",
+    "example": "我和家人一起吃饭。",
+    "examplePinyin": "Wǒ hé jiārén yìqǐ chīfàn.",
+    "exampleMeaning": "I eat with my family."
+  },
+  {
+    "hanzi": "爸爸",
+    "pinyin": "bàba",
+    "meaning": "dad / father",
+    "example": "我爸爸喜欢喝茶。",
+    "examplePinyin": "Wǒ bàba xǐhuān hē chá.",
+    "exampleMeaning": "My dad likes drinking tea."
+  },
+  {
+    "hanzi": "妈妈",
+    "pinyin": "māma",
+    "meaning": "mom / mother",
+    "example": "我妈妈在家。",
+    "examplePinyin": "Wǒ māma zài jiā.",
+    "exampleMeaning": "My mom is at home."
+  },
+  {
+    "hanzi": "孩子",
+    "pinyin": "háizi",
+    "meaning": "child",
+    "example": "那个孩子很可爱。",
+    "examplePinyin": "Nàge háizi hěn kě'ài.",
+    "exampleMeaning": "That child is very cute."
+  },
+  {
+    "hanzi": "猫",
+    "pinyin": "māo",
+    "meaning": "cat",
+    "example": "我有一只猫。",
+    "examplePinyin": "Wǒ yǒu yì zhī māo.",
+    "exampleMeaning": "I have a cat."
+  },
+  {
+    "hanzi": "狗",
+    "pinyin": "gǒu",
+    "meaning": "dog",
+    "example": "我喜欢小狗。",
+    "examplePinyin": "Wǒ xǐhuān xiǎo gǒu.",
+    "exampleMeaning": "I like puppies."
+  },
+  {
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "meaning": "meal / cooked rice",
+    "example": "我们一起吃饭吧。",
+    "examplePinyin": "Wǒmen yìqǐ chīfàn ba.",
+    "exampleMeaning": "Let's eat together."
+  },
+  {
+    "hanzi": "米饭",
+    "pinyin": "mǐfàn",
+    "meaning": "cooked rice",
+    "example": "我喜欢吃米饭。",
+    "examplePinyin": "Wǒ xǐhuān chī mǐfàn.",
+    "exampleMeaning": "I like eating rice."
+  },
+  {
+    "hanzi": "茶",
+    "pinyin": "chá",
+    "meaning": "tea",
+    "example": "爸爸喜欢喝茶。",
+    "examplePinyin": "Bàba xǐhuān hē chá.",
+    "exampleMeaning": "Dad likes drinking tea."
+  },
+  {
+    "hanzi": "咖啡",
+    "pinyin": "kāfēi",
+    "meaning": "coffee",
+    "example": "早上我喝咖啡。",
+    "examplePinyin": "Zǎoshang wǒ hē kāfēi.",
+    "exampleMeaning": "I drink coffee in the morning."
+  },
+  {
+    "hanzi": "天气",
+    "pinyin": "tiānqì",
+    "meaning": "weather",
+    "example": "今天天气很好。",
+    "examplePinyin": "Jīntiān tiānqì hěn hǎo.",
+    "exampleMeaning": "The weather is very good today."
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "meaning": "hot",
+    "example": "今天很热。",
+    "examplePinyin": "Jīntiān hěn rè.",
+    "exampleMeaning": "It is very hot today."
+  },
+  {
+    "hanzi": "冷",
+    "pinyin": "lěng",
+    "meaning": "cold",
+    "example": "今天很冷。",
+    "examplePinyin": "Jīntiān hěn lěng.",
+    "exampleMeaning": "It is very cold today."
+  },
+  {
+    "hanzi": "快乐",
+    "pinyin": "kuàilè",
+    "meaning": "happy",
+    "example": "祝你生日快乐！",
+    "examplePinyin": "Zhù nǐ shēngrì kuàilè!",
+    "exampleMeaning": "Happy birthday!"
+  },
+  {
+    "hanzi": "谢谢",
+    "pinyin": "xièxie",
+    "meaning": "thank you",
+    "example": "谢谢你的帮助。",
+    "examplePinyin": "Xièxie nǐ de bāngzhù.",
+    "exampleMeaning": "Thank you for your help."
+  },
+  {
+    "hanzi": "再见",
+    "pinyin": "zàijiàn",
+    "meaning": "goodbye",
+    "example": "明天见，再见！",
+    "examplePinyin": "Míngtiān jiàn, zàijiàn!",
+    "exampleMeaning": "See you tomorrow, goodbye!"
+  }
+]
