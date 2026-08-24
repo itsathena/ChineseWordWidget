@@ -1,10 +1,3 @@
-//
-//  ChineseWordWidgetBundle.swift
-//  ChineseWordWidget
-//
-//  Created by Adheena Dev on 23/08/26.
-//
-
 import WidgetKit
 import SwiftUI
 
