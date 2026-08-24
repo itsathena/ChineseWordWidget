@@ -9,7 +9,7 @@ struct Provider: TimelineProvider {
             date: Date(),
             word: Word(
                 hanzi: "你好",
-                pinyin: "nǐ hǎo yes",
+                pinyin: "nǐ hǎo",
                 meaning: "hello",
                 example: "你好！很高兴认识你。",
                 examplePinyin: "Nǐ hǎo! Hěn gāoxìng rènshi nǐ.",
