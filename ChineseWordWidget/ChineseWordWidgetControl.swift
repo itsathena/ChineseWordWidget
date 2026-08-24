@@ -1,10 +1,3 @@
-//
-//  ChineseWordWidgetControl.swift
-//  ChineseWordWidget
-//
-//  Created by Adheena Dev on 23/08/26.
-//
-
 import AppIntents
 import SwiftUI
 import WidgetKit
