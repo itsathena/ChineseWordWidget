@@ -1,10 +1,3 @@
-//
-//  VocabularyStore.swift
-//  ChineseWord
-//
-//  Created by Adheena Dev on 23/08/26.
-//
-
 import Foundation
 
 struct VocabularyStore {
