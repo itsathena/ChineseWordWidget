@@ -1,4 +1,4 @@
-# ChineseWord 🇨🇳
+# ChineseWordWidget
 
 A simple iOS Lock Screen widget that helps you learn Chinese vocabulary throughout the day.
 
