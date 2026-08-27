@@ -33,44 +33,45 @@ struct Provider: TimelineProvider {
     }
     
     // MARK: - Timeline
-    
+        
     func getTimeline(in context: Context, completion: @escaping (Timeline<ChineseWordEntry>) -> Void) {
         let allWords = VocabularyStore.loadWords()
-        
+            
         // Fallback if the JSON fails to load or is empty
         guard !allWords.isEmpty else {
             completion(
                 Timeline(
                     entries: [placeholder(in: context)],
-                    policy: .after(Date().addingTimeInterval(30 * 60))
+                        policy: .after(Date().addingTimeInterval(30 * 60))
+                    )
                 )
-            )
-            return
-        }
-        
-        let batchSize = 48
-        let interval: TimeInterval = 30 * 60 // 30 minutes
+                return
+            }
+            
+        // Schedule 30 hours of entries (60 entries * 30 mins)
+        let batchSize = 60
+        let interval: TimeInterval = 30 * 60
         let now = Date()
-        
-        let calendar = Calendar.current
-        let startOfToday = calendar.startOfDay(for: now)
-        let totalHalfHoursSinceReference = Int(now.timeIntervalSince(startOfToday) / interval)
-        
+
+        let referenceDate = Date(timeIntervalSinceReferenceDate: 0)
+        let totalHalfHoursSinceReference = Int(now.timeIntervalSince(referenceDate) / interval)
+            
         var entries: [ChineseWordEntry] = []
         
         for i in 0..<batchSize {
             let entryDate = now.addingTimeInterval(Double(i) * interval)
-            let wordIndex = (totalHalfHoursSinceReference + i) % allWords.count
+            let wordIndex = abs(totalHalfHoursSinceReference + i) % allWords.count
+                
             let entry = ChineseWordEntry(date: entryDate, word: allWords[wordIndex])
-            entries.append(entry)
-        }
-        
-        let nextReloadDate = now.addingTimeInterval(Double(batchSize) * interval)
-        
-        completion(
-            Timeline(
-                entries: entries,
-                policy: .after(nextReloadDate)
+                entries.append(entry)
+            }
+            
+        let nextReloadDate = now.addingTimeInterval(48 * interval)
+            
+            completion(
+                Timeline(
+                    entries: entries,
+                    policy: .after(nextReloadDate)
             )
         )
     }
